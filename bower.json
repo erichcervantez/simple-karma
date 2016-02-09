@@ -1,0 +1,19 @@
+{
+  "name": "simple-karma",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Erich Cervantez <git@noofusion.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
